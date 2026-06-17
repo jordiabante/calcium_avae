@@ -42,7 +42,7 @@ This project is licensed under the Apache License. See the LICENSE file for deta
 
 ## Papers
 
-- B Ros; M Olives-Verger; C Fuses; JM Canals; J Soriano; J Abante (2026). Integration of Calcium Imaging Traces via Deep Generative Modeling. *2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. IEEE (in print).
+- B. Ros, M. Olives-Verger, C. Fuses, J. M. Canals, J. Soriano and J. Abante, "Integration of Calcium Imaging Traces via Deep Generative Modeling," ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026, pp. 6986-6990, doi: 10.1109/ICASSP55912.2026.11464071.
 
 ## Documentation
 
